@@ -1,0 +1,5 @@
+com/redbee/microblog/config/SwaggerConfig.class
+com/redbee/microblog/controller/PersonaController.class
+com/redbee/microblog/entity/PersonaEntity.class
+com/redbee/microblog/controller/PersonaRepository.class
+com/redbee/microblog/DemoApplication.class

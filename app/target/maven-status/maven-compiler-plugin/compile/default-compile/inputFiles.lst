@@ -1,0 +1,5 @@
+/app/src/main/java/com/redbee/microblog/DemoApplication.java
+/app/src/main/java/com/redbee/microblog/controller/PersonaRepository.java
+/app/src/main/java/com/redbee/microblog/config/SwaggerConfig.java
+/app/src/main/java/com/redbee/microblog/entity/PersonaEntity.java
+/app/src/main/java/com/redbee/microblog/controller/PersonaController.java
